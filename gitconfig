@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pedroslvieira@gmail.com
+	name = Pedro Soares
